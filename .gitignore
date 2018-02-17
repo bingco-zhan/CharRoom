@@ -1,0 +1,7 @@
+/target/
+.classpath
+/.project
+README.md
+.settings
+/META-INF/
+/classes/
